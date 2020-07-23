@@ -1,0 +1,53 @@
+
+#header{
+    display: flex;
+    background-color:#225a95;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Red Rose', cursive;
+
+}
+.aside{
+    display: flex;
+    background-color:#225a95;
+    color: white;
+    justify-content: space-around;
+}
+#empieza{
+    background-color: #78c800;
+    border-radius: 10px;
+    width: 200px;
+   
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+#title{
+    padding: 10px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+
+    background-color:#225a95;
+}
+.footer{
+    display: flex;
+}
+.footer-title{
+    display: flex;
+    justify-content: center;
+}
